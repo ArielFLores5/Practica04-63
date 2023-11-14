@@ -20,9 +20,6 @@ Copilador C++
 
 Qt creator
 
-### Instalación 🔧
-
-
 ## Construido con 🛠️
 
 * Qt (https://www.qt.io/download) - Herramienta usada para realizar el ejercicio
