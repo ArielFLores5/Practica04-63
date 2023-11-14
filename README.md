@@ -1,9 +1,9 @@
 # Practica04-63
 Solucion de el ejercicio de cuenta bancaria
-# Practica-Circulo
+# Practica-Cuenta Bancaria
 Solucion de el ejercicio Cuenta Bancaria
 
-# Circulo 
+# Cuenta Bancaria
 
 Ejercicio realizado en Qt con el lenguaje C++
 
